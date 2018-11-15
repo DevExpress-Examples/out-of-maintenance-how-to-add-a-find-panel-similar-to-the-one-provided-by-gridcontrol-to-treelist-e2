@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FindPanel.cs](./CS/WindowsApplication3/FindPanel.cs) (VB: [FindPanel.vb](./VB/WindowsApplication3/FindPanel.vb))
+* [Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))
+* [OptionsFindProvider.cs](./CS/WindowsApplication3/OptionsFindProvider.cs) (VB: [OptionsFindProvider.vb](./VB/WindowsApplication3/OptionsFindProvider.vb))
+* [Program.cs](./CS/WindowsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsApplication3/Program.vb))
+<!-- default file list end -->
 # How to add a Find Panel, similar to the one provided by GridControl to TreeList 
 
 
